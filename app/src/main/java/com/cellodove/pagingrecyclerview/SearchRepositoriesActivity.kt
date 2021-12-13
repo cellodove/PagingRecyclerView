@@ -5,7 +5,7 @@ import android.os.Bundle
 import com.cellodove.pagingrecyclerview.databinding.ActivitySeachRepositoriesBinding
 
 class SearchRepositoriesActivity : AppCompatActivity() {
-    val binding by lazy { ActivitySeachRepositoriesBinding.inflate(layoutInflater) }
+    private val binding by lazy { ActivitySeachRepositoriesBinding.inflate(layoutInflater) }
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
