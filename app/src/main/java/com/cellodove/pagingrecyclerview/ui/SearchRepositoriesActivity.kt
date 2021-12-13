@@ -1,4 +1,4 @@
-package com.cellodove.pagingrecyclerview
+package com.cellodove.pagingrecyclerview.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

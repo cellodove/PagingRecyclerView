@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.PagingRecyclerView">
         <activity
-            android:name=".SearchRepositoriesActivity"
+            android:name=".ui.SearchRepositoriesActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
